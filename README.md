@@ -1,10 +1,10 @@
 <!--
   Profile README for github.com/contactmridulhere-commits
-  Design system: Chromatic Lightflow, matching portfolio-mridul-six.vercel.app. Artwork lives in /assets (light + dark variants).
+  Design system: Chromatic Lightflow, matching www.mridulsharmaofficial.com. Artwork lives in /assets (light + dark variants).
   The "Latest from the channel" block is refreshed daily by .github/workflows/latest-videos.yml.
 -->
 
-<a href="https://portfolio-mridul-six.vercel.app">
+<a href="https://www.mridulsharmaofficial.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <img src="assets/banner-light.svg" width="100%" alt="Mridul Sharma. Embedded systems, AR and HUD, wearables and on-device AI. I build hardware that actually ships, and software that blends in.">
@@ -12,7 +12,7 @@
 </a>
 
 <p align="center">
-  <a href="https://portfolio-mridul-six.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="38" alt="Portfolio"></picture></a>&nbsp;
+  <a href="https://www.mridulsharmaofficial.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="38" alt="Portfolio"></picture></a>&nbsp;
   <a href="https://www.linkedin.com/in/mridul-sharma-martian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="38" alt="LinkedIn"></picture></a>&nbsp;
   <a href="https://www.youtube.com/@mridulsharma-martian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-youtube-dark.svg"><img src="assets/btn-youtube-light.svg" height="38" alt="YouTube"></picture></a>&nbsp;
   <a href="https://mexger.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mexger-dark.svg"><img src="assets/btn-mexger-light.svg" height="38" alt="Mexger"></picture></a>&nbsp;
@@ -23,7 +23,7 @@
 
 <br>
 
-I'm a Mechanical Engineering student at **Queen's University Belfast** who designs, solders, codes and ships hardware: **15+ documented builds, 5 live products, 2+ years shipping.** My work sits where hardware, software and AI meet: embedded systems, AR/HUD optics, wearable health sensing and AI that runs fully on-device. Every major build is documented on [YouTube](https://www.youtube.com/@mridulsharma-martian) and on my [portfolio](https://portfolio-mridul-six.vercel.app).
+I'm a Mechanical Engineering student at **Queen's University Belfast** who designs, solders, codes and ships hardware: **15+ documented builds, 5 live products, 2+ years shipping.** My work sits where hardware, software and AI meet: embedded systems, AR/HUD optics, wearable health sensing and AI that runs fully on-device. Every major build is documented on [YouTube](https://www.youtube.com/@mridulsharma-martian) and on my [portfolio](https://www.mridulsharmaofficial.com).
 
 ### Now building
 
@@ -59,7 +59,7 @@ I'm a Mechanical Engineering student at **Queen's University Belfast** who desig
 </p>
 <p align="center">
   <a href="https://github.com/contactmridulhere-commits/See-thru-walls-wifi-V3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-wifi-dark.webp"><img src="assets/card-wifi-light.webp" width="49%" alt="WiFi CSI Sensing, contactless presence and breathing detection on one ESP32. Open source"></picture></a>
-  <a href="https://portfolio-mridul-six.vercel.app/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-walk-dark.webp"><img src="assets/card-walk-light.webp" width="49%" alt="WALK, an assistive hip-and-knee exoskeleton. In development"></picture></a>
+  <a href="https://www.mridulsharmaofficial.com/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-walk-dark.webp"><img src="assets/card-walk-light.webp" width="49%" alt="WALK, an assistive hip-and-knee exoskeleton. In development"></picture></a>
 </p>
 
 <br>
