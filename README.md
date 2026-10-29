@@ -85,9 +85,9 @@ I'm a Mechanical Engineering student at **Queen's University Belfast** who desig
 
 <!-- VIDEOS:START -->
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=vb7rz6lYeNc"><img src="https://i.ytimg.com/vi/vb7rz6lYeNc/mqdefault.jpg" width="32%" alt="I Built Local LLM System On The Raspberry Pi 5 Using Ollama" title="I Built Local LLM System On The Raspberry Pi 5 Using Ollama"></a>
   <a href="https://www.youtube.com/watch?v=KuAkXIQSMWo"><img src="https://i.ytimg.com/vi/KuAkXIQSMWo/maxresdefault.jpg" width="32%" alt="I Built This Tool That Does Your Work X10 Better With AI **FREE**" title="I Built This Tool That Does Your Work X10 Better With AI **FREE**"></a>
   <a href="https://www.youtube.com/watch?v=-0LtYtajScs"><img src="https://i.ytimg.com/vi/-0LtYtajScs/maxresdefault.jpg" width="32%" alt="My Iron Man Jarvis Interface [Publicly Free To Use]" title="My Iron Man Jarvis Interface [Publicly Free To Use]"></a>
-  <a href="https://www.youtube.com/watch?v=8IjHIrzghQg"><img src="https://i.ytimg.com/vi/8IjHIrzghQg/maxresdefault.jpg" width="32%" alt="This Tool Lets You Create Any Persons AI Version (ITS CONTROVERSIAL)" title="This Tool Lets You Create Any Persons AI Version (ITS CONTROVERSIAL)"></a>
 </p>
 <!-- VIDEOS:END -->
 
